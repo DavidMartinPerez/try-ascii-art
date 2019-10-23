@@ -9,3 +9,10 @@
     - Texto con colores
 - image-to-ascii
     - convertir imagenes a ASCII
+    
+ ### Ejecución
+ ```javascript
+ node ascii.js
+ node image-to-ascii.js
+ node figlet.js
+ ```
